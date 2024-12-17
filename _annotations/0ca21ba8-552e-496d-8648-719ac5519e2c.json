@@ -1,0 +1,33 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "333",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lihanyu-1991",
+                "name": "lihanyu-1991"
+            },
+            "created": "2024-12-17T13:27:39.417Z",
+            "modified": "2024-12-17T13:27:39.824Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"322.2574157714844\" cy=\"311.3199157714844\" r=\"13.861869622780453\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0ca21ba8-552e-496d-8648-719ac5519e2c.json",
+    "motivation": "commenting"
+}
